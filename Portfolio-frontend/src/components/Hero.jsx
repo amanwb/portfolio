@@ -38,7 +38,7 @@ export default function Hero() {
         <div className="flex-1 flex justify-center">
           <div className="w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-blue-600 shadow-[0_0_30px_rgba(59,130,246,0.4)]">
             <img
-              src="/profile.png"
+              src="/profile.jpg"
               alt="Aman Profile"
               className="w-full h-full object-cover"
             />
